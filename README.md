@@ -6,6 +6,8 @@ Analisis Exploratorio De Datos &amp; Modelo de prediccion (Steam)
 Análisis Explorarotio De Datos & Modelo De Prediccion
 Introducción al proyecto:
 Análisis Exploratorio y Transformación de los Datos, y Modelado con Técnicas de Machine Learning.
+
+
 1
 Crearemos consultas específicas para obtener información relevante, como los géneros más ofrecidos, los juegos lanzados en un año determinado y otras consultas interesantes relacionadas con el análisis
 2

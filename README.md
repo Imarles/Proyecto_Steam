@@ -47,6 +47,5 @@ Propuesta de trabajo:
 Video explicativo del proyecto
 https://youtu.be/aeCfvMVYi3g
 
-
 Deployment:
 Para realizar el deploy de esta aplicación, se utilizó la plataforma Render. Render es una plataforma en la nube que facilita el despliegue y el hosting de 

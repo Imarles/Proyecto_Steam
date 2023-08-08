@@ -1,4 +1,7 @@
 # Proyecto_Steam
+Video explicativo del proyecto
+https://youtu.be/aeCfvMVYi3g
+
 Analisis Exploratorio De Datos &amp; Modelo de prediccion (Steam)
 Análisis Explorarotio De Datos & Modelo De Prediccion
 Introducción al proyecto:
@@ -10,13 +13,7 @@ limpiaremos y exploraremos los datos para prepararlos adecuadamente para la pred
 3
  Aquí entrenaremos nuestro algoritmo de machine learning para que pueda realizar predicciones precisas sobre los precios de los juegos en Steam. Tomaremos en cuenta características como género, año, especificaciones y otras variables relevantes para lograr una predicción precisa.
 
-
-Evaluación del cumplimiento de los objetivos:
-Transformaciones en las bases de datos: Link al Notebook
-Desarrollo de la API :Link a la API
-Deployment: Link al Render
-Video: Link al Video
-Propuesta de trabajo:
+##Propuesta de trabajo:
 1. Transformación del dataset:
    - Leer el dataset con el formato correcto.
 2. Desarrollo de la API con FastAPI:
@@ -31,8 +28,6 @@ Propuesta de trabajo:
      - metascore(Año: str): Devuelve los 5 juegos con mayor metascore para un año específico.
 3. Deployment:
    - Utilizar un servicio como Render o Railway para desplegar la API y hacerla accesible desde la web.
-
-
 4. Análisis exploratorio de los datos (EDA):
    - Realizar un análisis exploratorio de los datos para investigar las relaciones entre las variables del dataset.
    - Identificar posibles outliers o anomalías en los datos.
@@ -43,9 +38,5 @@ Propuesta de trabajo:
    - Utilizar características como Género, Año, Metascore, y/o otras relevantes para el modelo.
    - Implementar una función predicción(genero, earlyaccess, otras_variables) que, ingresando ciertos parámetros, devuelva el precio y RMSE (Error cuadrático medio) de las predicciones realizadas por el modelo.
 
-
-Video explicativo del proyecto
-https://youtu.be/aeCfvMVYi3g
-
 Deployment:
-Para realizar el deploy de esta aplicación, se utilizó la plataforma Render. Render es una plataforma en la nube que facilita el despliegue y el hosting de 
+Para realizar el deploy de esta aplicación, se utilizó la plataforma Render. Render es una plataforma en la nube que facilita el despliegue y el hosting.

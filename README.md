@@ -2,6 +2,7 @@
 Video explicativo del proyecto
 https://youtu.be/aeCfvMVYi3g
 
+
 Analisis Exploratorio De Datos &amp; Modelo de prediccion (Steam)
 Análisis Explorarotio De Datos & Modelo De Prediccion
 Introducción al proyecto:

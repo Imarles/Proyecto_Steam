@@ -29,7 +29,7 @@ limpiaremos y exploraremos los datos para prepararlos adecuadamente para la pred
        Ejemplo de retorno: {Mixed = 182, Very Positive = 120, Positive = 278}
      - metascore(Año: str): Devuelve los 5 juegos con mayor metascore para un año específico.
 3. Deployment:
-   - Utilizar un servicio como Render o Railway para desplegar la API y hacerla accesible desde la web.
+Para realizar el deploy de esta aplicación, se utilizó la plataforma Render. Render es una plataforma en la nube que facilita el despliegue y el hosting.
 4. Análisis exploratorio de los datos (EDA):
    - Realizar un análisis exploratorio de los datos para investigar las relaciones entre las variables del dataset.
    - Identificar posibles outliers o anomalías en los datos.
@@ -40,5 +40,4 @@ limpiaremos y exploraremos los datos para prepararlos adecuadamente para la pred
    - Utilizar características como Género, Año, Metascore, y/o otras relevantes para el modelo.
    - Implementar una función predicción(genero, earlyaccess, otras_variables) que, ingresando ciertos parámetros, devuelva el precio y RMSE (Error cuadrático medio) de las predicciones realizadas por el modelo.
 
-Deployment:
-Para realizar el deploy de esta aplicación, se utilizó la plataforma Render. Render es una plataforma en la nube que facilita el despliegue y el hosting.
+

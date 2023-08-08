@@ -45,7 +45,7 @@ Propuesta de trabajo:
 
 
 Video explicativo del proyecto
-https://www.youtube.com/watch?v=qbfDUvdbNDg
+https://youtu.be/aeCfvMVYi3g
 
 
 Deployment:
